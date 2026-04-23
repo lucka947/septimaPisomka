@@ -1,4 +1,4 @@
-# sem doplnte link na svoj kod
+# https://github.com/lucka947/sachovnica
 
 import os;
 
